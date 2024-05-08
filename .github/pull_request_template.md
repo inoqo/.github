@@ -21,6 +21,11 @@
 👉 Optional: A list of TODO items for finishing this PR.
 - [ ]
 
+## Pre-Deploy TODOs
+
+- [ ] I have tested migrations on real data
+- [ ] I checked whether I can merge / deploy my changes (e.g. sync with other teams, especially if there are migrations and/or breaking changes)
+
 ## Post-Deploy TODOs
 
 👉 If applicable: A list of things to take care of after deployment.
