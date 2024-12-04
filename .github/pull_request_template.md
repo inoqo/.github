@@ -24,7 +24,7 @@
 ## Pre-Deploy TODOs
 
 - [ ] I have tested migrations on real data
-- [ ] I checked I have no flaky tests (e.g. relying on query results order)
+- [ ] I checked for common causes of flaky tests (e.g. relying on query results order)
 - [ ] I checked whether I can merge / deploy my changes (e.g. sync with other teams, especially if there are migrations and/or breaking changes)
 
 ## Post-Deploy TODOs
