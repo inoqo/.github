@@ -1,4 +1,4 @@
-👉 Check that you followed the [guidelines for PRs](https://github.com/inoqo/docs/blob/main/docs/dev-team/dev/branches_pull_requests_releases.md#backend-workflow-assessment-engine) and remove all lines marked with 👉.
+👉 Check that you followed the [guidelines for PRs](https://github.com/inoqo/docs/blob/main/docs/teams/dev/branches_commits_pull_requests_releases.md#backend-workflow-assessment-engine) and remove all lines marked with 👉.
 
 ---
 
