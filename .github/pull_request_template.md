@@ -6,8 +6,6 @@
 
 👉 SET LABELS to `work in progress` if this PR is not yet finished.
 
-[Issue](https://linear.app/inoqo/issue/AE-1234)
-
 # Why?
 
 👉 Please add the reason why we are doing this.
